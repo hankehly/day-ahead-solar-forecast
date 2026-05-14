@@ -33,3 +33,6 @@ wandb/
 .vscode/
 .idea/
 *.swp
+
+# Temp
+tmp/
